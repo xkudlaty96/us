@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Zadanie3 {
+public class zad3 {
   public static void main(String[] args){
     Scanner reader = new Scanner(System.in);
     System.out.print("Waga: ");

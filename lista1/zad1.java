@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Zadanie1 {
+public class zad1 {
   public static void main(String[] args){
     Scanner reader = new Scanner(System.in);
     float stopnie = reader.nextFloat();

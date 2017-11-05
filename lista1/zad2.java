@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Zadanie2 {
+public class zad2 {
   public static void main(String[] args){
     Scanner reader = new Scanner(System.in);
     int a = reader.nextInt();
